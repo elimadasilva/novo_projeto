@@ -1,5 +1,5 @@
 Como você pode ver, o comando git log nos mostra as informações exibidas após realizar o commit, além do nome e email do autor do respectivo commit, e a data/hora em que o commit foi realizado.
 
- 
-
-Criemos agora mais dois arquivos: usuario.txt e produto.txt. Além disso, adicionemos uma linha de texto ao arquivo home.txt e salvemos ele. Podemos salvar as mudanças feitas nos nossos arquivos com o atalho Ctrl + S. Sua tela deveria estar mais ou menos assim:
+ ddddddddddddddddd
+zzzzzzzzzzzzzzzzzzzzzz
+Criemos agora mais dois arquivos: usuario.txt e produto.txt. Além disso, adicionemos uma linha de texto ao arquivo home.txt e salvemos ele. Podemos salvar as mudanças feitas nos nossos arquivos com o atalho Ctrl + S. Sua tela deveria estar mais ou menos assim:git
